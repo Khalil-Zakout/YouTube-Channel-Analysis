@@ -1,0 +1,8 @@
+# Exclude .env file for environment variables
+.env
+
+# Ignore Python cache files
+__pycache__/
+
+# Ignore Jupyter Notebook checkpoint files
+.ipynb_checkpoints/
