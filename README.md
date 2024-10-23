@@ -28,16 +28,17 @@ Additionally, this analysis helps identify which topics resonate most with viewe
 2. **Install Required Packages**: Ensure you have the necessary Python packages installed:
    
    ```pip install requests pandas matplotlib google-api-python-client```
-3. **Rename The **`.env.example`** file to **`.env`****.
+3. **Rename The **`.env.example`** file to `.env`**.
 4. **Add your API Key to the **`.env`** file**.
 5. **Run the Notebook**: Execute the notebook and replace the placeholders in the code with your desired channel's ID.
 6. **Explore Insights**: Review the generated bar chart to understand which topics engage viewers the most.
 
 ## Example
 * Here is an example of analyzing the YouTube channel for the NetworkChuck:
-![NetworkChuck]("./ChartsExamples/NetworkChuck.png")
+  
+![NetworkChuck](./ChartsExamples/NetworkChuck.png)
 
-* Here we can say that the best performing playlist is [], so it is better for him to make a course around the [] topic as it wil most likely suceed
+* Here we can say that one of the best performing playlists is the **Ethical Hacking Playlist**, so it is better for him to make a course around **CEH** as it wil most likely succeed.
 
 ## Contact
 For any inquiries or feedback, please reach out to zakoutkhalil@gmail.com
