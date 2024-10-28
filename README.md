@@ -41,4 +41,4 @@ Additionally, this analysis helps identify which topics resonate most with viewe
 * Here we can say that one of the best performing playlists is the **Ethical Hacking Playlist**, so it is better for him to make a course around **CEH** as it wil most likely succeed.
 
 ## Contact
-For any inquiries or feedback, please reach out to zakoutkhalil@gmail.com
+For questions or contributions, please reach out to me at zakoutkhalil@gmail.com. You can also connect with me on [LinkedIn](https://www.linkedin.com/in/khalil-zakout/).
